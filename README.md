@@ -148,8 +148,8 @@ color: #FFFFFF;
 
 ```
 ## OUTPUT:
-!['output'](/Screenshot%202023-01-29%20at%2008-45-07%20AnnBlessy_event-registration.png)
-![output'](/Screenshot%202023-01-29%20at%2008-45-32%20AnnBlessy_event-registration.png)
-!['output'](/Screenshot%202023-01-29%20at%2008-45-41%20AnnBlessy_event-registration.png)
+!['output'](/Screenshot%202023-01-29%20at%2008-45-41%20(1).png)
+![output'](/Screenshot%202023-01-29%20at%2008-45-41%20(2).png)
+!['output'](/Screenshot%202023-01-29%20at%2008-45-41%20(3).png)
 ## Result:
 The program to design, develope and deploy a web application for event registration is completed.
